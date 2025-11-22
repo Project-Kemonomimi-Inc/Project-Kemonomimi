@@ -7,7 +7,7 @@ Just a simple Kemonomimi project to make Anime / Manga / VTuber like characters 
 
 [月海猫少年くん Tsukiumi Neko-kun 🌙🐱 つきうみねこしょうねんくん](https://github.com/Kemonomimi-Inc/TsukiumiNekoKun)
 
-[和希鈴木猫少年くん Kazuki Suzuki Neko-kun 🇯🇵🐱 かずきすずきねこしょうねんくん](https://github.com/Kemonomimi-Inc/KazukiSuzukiNekoKun)
+[鈴木和希猫少年くん Kazuki Suzuki Neko-kun 🇯🇵🐱 すずきかずきねこしょうねんくん](https://github.com/Kemonomimi-Inc/KazukiSuzukiNekoKun)
 
 [ホロ 🐺🦊 Holo](https://github.com/Kemonomimi-Inc/Ai-Images/tree/main/%E3%83%9B%E3%83%AD)
 
