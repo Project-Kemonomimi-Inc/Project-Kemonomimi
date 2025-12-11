@@ -14,3 +14,6 @@
 	path = HimariKitsuneChan
 	url = https://github.com/Kemonomimi-Inc/HimariKitsuneChan
 	branch = main
+[submodule "HarukaNekoChan"]
+	path = HarukaNekoChan
+	url = https://github.com/Kemonomimi-Inc/HarukaNekoChan.git
