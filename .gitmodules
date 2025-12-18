@@ -1,19 +1,19 @@
 [submodule "KazukiSuzukiNekoKun"]
-	path = KazukiSuzukiNekoKun
-	url = https://github.com/Kemonomimi-Inc/KazukiSuzukiNekoKun
+	path = SakuyaNekoKun
+	url = https://github.com/Project-Kemonomimi-Inc/SakuyaNekoKun.git
 	branch = main
 [submodule "TsukiumiNekoKun"]
-	path = TsukiumiNekoKun
-	url = https://github.com/Kemonomimi-Inc/TsukiumiNekoKun
+	path = SakutoNekoKun
+	url = https://github.com/Project-Kemonomimi-Inc/SakutoNekoKun.git
 	branch = main
 [submodule "OukaNekoChan"]
-	path = OukaNekoChan
-	url = https://github.com/Kemonomimi-Inc/OukaNekoChan
+	path = YuukaNekoChan
+	url = https://github.com/Project-Kemonomimi-Inc/YuukaNekoChan.git
 	branch = main
 [submodule "HimariKitsuneChan"]
 	path = HimariKitsuneChan
-	url = https://github.com/Kemonomimi-Inc/HimariKitsuneChan
+	url = https://github.com/Project-Kemonomimi-Inc/HimariKitsuneChan.git
 	branch = main
 [submodule "HarukaNekoChan"]
-	path = HarukaNekoChan
-	url = https://github.com/Kemonomimi-Inc/HarukaNekoChan.git
+	path = AyakaNekoChan
+	url = https://github.com/Project-Kemonomimi-Inc/AyakaNekoChan.git
