@@ -17,3 +17,4 @@
 [submodule "HarukaNekoChan"]
 	path = AyakaNekoChan
 	url = https://github.com/Project-Kemonomimi-Inc/AyakaNekoChan.git
+	branch = main
